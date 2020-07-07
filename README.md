@@ -1,4 +1,4 @@
-# Bird Looking Glass
+# Bird2 Looking Glass
 
 基于 [xddxdd/bird-lg-go](https://github.com/xddxdd/bird-lg-go) ，按照个人喜好修改的 Bird Looking Glass。
 
